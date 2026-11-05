@@ -128,9 +128,7 @@ Today, I focus on building clean, responsive, and maintainable applications whil
 </p>
 
 
-
 ---
-
 
 
 <!-- ===================================================== -->
@@ -142,23 +140,17 @@ Today, I focus on building clean, responsive, and maintainable applications whil
 <p align="center">
   <a href="https://github.com/hamza-hafeez-dev">
     <img
-      src="https://img.shields.io/badge/VIEW_CONTRIBUTION_CALENDAR-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22"
-      alt="View GitHub Contribution Calendar"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-hafeez-dev&theme=github-compact&bg_color=0D1117&color=58A6FF&line=238636&point=58A6FF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity"
+      width="100%"
+      alt="Live GitHub Contribution Activity"
     />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/hamza-hafeez-dev?tab=overview">
-    <img
-      src="https://img.shields.io/badge/VIEW_ACTIVITY_TIMELINE-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22"
-      alt="View GitHub Activity Timeline"
-    />
+  <a href="https://github.com/hamza-hafeez-dev">
+    <img src="https://img.shields.io/badge/Full_Contribution_History-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Full Contribution History"/>
   </a>
-</p>
-
-<p align="center">
-  <i>Consistent contributions. Continuous improvement.</i>
 </p>
 
 
