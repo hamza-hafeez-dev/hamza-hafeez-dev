@@ -78,49 +78,55 @@ Today, I focus on building clean, responsive, and maintainable applications whil
 ---
 
 <!-- ===================================================== -->
-<!--                       TECH STACK                        -->
+<!--                    FLUTTER EXPERTISE                    -->
 <!-- ===================================================== -->
 
-## 🛠️ Tech Stack
+## 💙 Flutter Development Skills
 
-### Mobile Development
-
-<p align="left">
-  <a href="https://flutter.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java" alt="Flutter Dart Android Studio Java"/>
-  </a>
-</p>
-
-### Backend & Database
-
-<p align="left">
-  <a href="https://firebase.google.com">
-    <img src="https://skillicons.dev/icons?i=firebase,mysql" alt="Firebase MySQL"/>
-  </a>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
-
-### Development Tools
-
-<p align="left">
-  <a href="https://git-scm.com">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Git GitHub VS Code Postman Figma"/>
-  </a>
-</p>
-
-### Concepts & Technologies
+### UI Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Custom_Widgets-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive_UI-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Custom_Clipper-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CustomPainter-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Animations-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Material_Design-02569B?style=for-the-badge"/>
+</p>
+
+### State Management
+
+<p align="center">
   <img src="https://img.shields.io/badge/Provider-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/BLoC-5C2D91?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Riverpod-00A3E0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge"/>
 </p>
 
+### App Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_API_Integration-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/JSON_Parsing-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Navigation-02569B?style=for-the-badge"/>
+</p>
+
+### Architecture & Code Quality
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean_Architecture-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-0175C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Async_Programming-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Error_Handling-CC3333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Debugging-444444?style=for-the-badge"/>
+</p>
+
+
 ---
+
 
 <!-- ===================================================== -->
 <!--                    GITHUB STATISTICS                    -->
@@ -130,7 +136,7 @@ Today, I focus on building clean, responsive, and maintainable applications whil
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=hamza-hafeez-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" alt="GitHub Statistics"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hamza-hafeez-dev&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-hafeez-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=C%2B%2B,C,HTML,CSS" width="49%" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
@@ -138,15 +144,14 @@ Today, I focus on building clean, responsive, and maintainable applications whil
 </p>
 
 <p align="center">
-  <a href="https://github.com/hamza-hafeez-dev">
-    <img src="https://img.shields.io/github/commit-activity/y/hamza-hafeez-dev?style=for-the-badge&label=Yearly%20Commits&color=blue" alt="Yearly Commits"/>
-  </a>
-  <a href="https://github.com/hamza-hafeez-dev?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-  </a>
+  <img src="https://img.shields.io/github/commit-activity/y/hamza-hafeez-dev?style=for-the-badge&label=Yearly%20Commits&color=38BDF8"/>
+  <img src="https://img.shields.io/github/followers/hamza-hafeez-dev?style=for-the-badge&label=Followers&color=38BDF8"/>
+  <img src="https://img.shields.io/github/stars/hamza-hafeez-dev?style=for-the-badge&label=Stars&color=38BDF8"/>
 </p>
 
+
 ---
+
 
 <!-- ===================================================== -->
 <!--                  CONTRIBUTION ACTIVITY                  -->
@@ -156,13 +161,14 @@ Today, I focus on building clean, responsive, and maintainable applications whil
 
 <p align="center">
   <a href="https://github.com/hamza-hafeez-dev">
-    <img src="https://ghchart.rshah.org/38BDF8/hamza-hafeez-dev" alt="Hamza's GitHub Contribution Calendar" width="100%"/>
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-hafeez-dev&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB&area=true&hide_border=true&custom_title=Hamza%20Hafeez%20-%20Contribution%20Activity"
+      width="100%"
+      alt="GitHub Contribution Activity Graph"
+    />
   </a>
 </p>
 
-<p align="center">
-  <i>Every contribution is another step forward.</i>
-</p>
 
 ---
 
@@ -176,6 +182,26 @@ Today, I focus on building clean, responsive, and maintainable applications whil
   <a href="https://github.com/hamza-hafeez-dev?tab=achievements">
     <img src="https://img.shields.io/badge/View_GitHub_Achievements-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements"/>
   </a>
+</p>
+
+---
+
+
+<!-- ===================================================== -->
+<!--                  FLUTTER UI ENGINEERING                 -->
+<!-- ===================================================== -->
+
+## 🎨 Flutter UI Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Implicit_Animations-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Explicit_Animations-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AnimationController-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hero_Animations-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CustomPainter-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CustomClipper-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CustomScrollView-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Slivers-02569B?style=for-the-badge"/>
 </p>
 
 ---
