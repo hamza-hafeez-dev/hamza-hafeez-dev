@@ -198,6 +198,7 @@ Today, I focus on building clean, responsive, and maintainable applications whil
 
 ---
 
+
 <!-- ===================================================== -->
 <!--                    FEATURED PROJECTS                    -->
 <!-- ===================================================== -->
@@ -206,44 +207,46 @@ Today, I focus on building clean, responsive, and maintainable applications whil
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">Flutter Authentication System</h3>
+<h3 align="center">🍔 Flutter Foodie App</h3>
 
 <p align="center">
-  <a href="https://github.com/hamza-hafeez-dev/Flutter-Authentication-System">
-    <img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Flutter Authentication System"/>
+  <a href="https://github.com/hamza-hafeez-dev/Flutter-Foodie-App">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Flutter Foodie App"/>
   </a>
 </p>
 
 <p align="center">
-A Flutter authentication project focused on mobile UI development and authentication flows.
+A Flutter food application project focused on mobile UI development and creating engaging user experiences.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile_UI-2E8B57?style=flat-square"/>
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">Learning Dart Core Concepts</h3>
+<h3 align="center">📚 Advanced Flutter Roadmap</h3>
 
 <p align="center">
-  <a href="https://github.com/hamza-hafeez-dev/Learning-Dart-Core-Concepts">
-    <img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Learning Dart Core Concepts"/>
+  <a href="https://github.com/hamza-hafeez-dev/Advance-Flutter-Roadmap">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Advanced Flutter Roadmap"/>
   </a>
 </p>
 
 <p align="center">
-A structured collection of Dart concepts, examples, and learning resources.
+A structured Flutter learning roadmap covering Dart fundamentals, Flutter concepts, practical examples, and development topics from beginner to advanced.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart"/>
-<img src="https://img.shields.io/badge/Learning-2E8B57?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning_Resource-2E8B57?style=flat-square"/>
 </p>
 
 </td>
@@ -252,9 +255,10 @@ A structured collection of Dart concepts, examples, and learning resources.
 
 <p align="center">
   <a href="https://github.com/hamza-hafeez-dev?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
   </a>
 </p>
+
 
 ---
 
