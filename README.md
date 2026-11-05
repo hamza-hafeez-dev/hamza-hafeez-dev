@@ -135,19 +135,15 @@ Today, I focus on building clean, responsive, and maintainable applications whil
 <!--                  CONTRIBUTION ACTIVITY                  -->
 <!-- ===================================================== -->
 
-
 ## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/hamza-hafeez-dev">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-hafeez-dev&theme=github-compact"
-      width="100%"
-      alt="Contribution Activity"
-    />
-  </a>
+  <img
+    src="https://ghchart.rshah.org/38BDF8/hamza-hafeez-dev"
+    alt="GitHub Contribution Calendar"
+    width="100%"
+  />
 </p>
-
 
 
 ---
