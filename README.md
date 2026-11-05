@@ -49,35 +49,6 @@ Today, I focus on building clean, responsive, and maintainable applications whil
 ---
 
 <!-- ===================================================== -->
-<!--                  PROFESSIONAL EXPERIENCE                 -->
-<!-- ===================================================== -->
-
-## 💼 Professional Experience
-
-### Associate Flutter Developer
-**CAS Center for Advance Solutions**  
-📍 Bahawalpur, Pakistan
-
-- Developing cross-platform mobile applications using Flutter and Dart.
-- Building responsive interfaces and reusable custom widgets.
-- Integrating REST APIs and handling JSON responses.
-- Working with Firebase Authentication and Cloud Firestore.
-- Implementing application state management.
-- Applying Clean Architecture and MVVM principles.
-- Using Git and GitHub for version control and project collaboration.
-
-### Associate Android Developer
-**CAS Center for Advance Solutions**
-
-- Developed native Android applications using Java and Android Studio.
-- Built interfaces with XML layouts and reusable UI components.
-- Worked with Activities, Fragments, Intents, and RecyclerView.
-- Integrated REST APIs and managed local data using SQLite.
-- Debugged application issues and improved code reliability.
-
----
-
-<!-- ===================================================== -->
 <!--                    FLUTTER EXPERTISE                    -->
 <!-- ===================================================== -->
 
@@ -128,6 +99,7 @@ Today, I focus on building clean, responsive, and maintainable applications whil
 ---
 
 
+
 <!-- ===================================================== -->
 <!--                    GITHUB STATISTICS                    -->
 <!-- ===================================================== -->
@@ -135,22 +107,30 @@ Today, I focus on building clean, responsive, and maintainable applications whil
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=hamza-hafeez-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-hafeez-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=C%2B%2B,C,HTML,CSS" width="49%" alt="Most Used Languages"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=hamza-hafeez-dev&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&hide_rank=true"
+    width="49%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=hamza-hafeez-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    width="49%"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hamza-hafeez-dev&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=hamza-hafeez-dev&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/hamza-hafeez-dev?style=for-the-badge&label=Yearly%20Commits&color=38BDF8"/>
-  <img src="https://img.shields.io/github/followers/hamza-hafeez-dev?style=for-the-badge&label=Followers&color=38BDF8"/>
-  <img src="https://img.shields.io/github/stars/hamza-hafeez-dev?style=for-the-badge&label=Stars&color=38BDF8"/>
-</p>
 
 
 ---
+
 
 
 <!-- ===================================================== -->
@@ -162,11 +142,23 @@ Today, I focus on building clean, responsive, and maintainable applications whil
 <p align="center">
   <a href="https://github.com/hamza-hafeez-dev">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-hafeez-dev&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB&area=true&hide_border=true&custom_title=Hamza%20Hafeez%20-%20Contribution%20Activity"
-      width="100%"
-      alt="GitHub Contribution Activity Graph"
+      src="https://img.shields.io/badge/VIEW_CONTRIBUTION_CALENDAR-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22"
+      alt="View GitHub Contribution Calendar"
     />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hamza-hafeez-dev?tab=overview">
+    <img
+      src="https://img.shields.io/badge/VIEW_ACTIVITY_TIMELINE-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22"
+      alt="View GitHub Activity Timeline"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <i>Consistent contributions. Continuous improvement.</i>
 </p>
 
 
