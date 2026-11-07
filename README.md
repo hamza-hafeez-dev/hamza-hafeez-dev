@@ -148,20 +148,6 @@ Today, I focus on building clean, responsive, and maintainable applications whil
 
 ---
 
-<!-- ===================================================== -->
-<!--                    GITHUB ACHIEVEMENTS                  -->
-<!-- ===================================================== -->
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/hamza-hafeez-dev?tab=achievements">
-    <img src="https://img.shields.io/badge/View_GitHub_Achievements-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements"/>
-  </a>
-</p>
-
----
-
 
 <!-- ===================================================== -->
 <!--                  FLUTTER UI ENGINEERING                 -->
@@ -243,20 +229,6 @@ A structured Flutter learning roadmap covering Dart fundamentals, Flutter concep
   </a>
 </p>
 
-
----
-
-<!-- ===================================================== -->
-<!--                 CURRENT FOCUS                           -->
-<!-- ===================================================== -->
-
-## 🎯 Current Focus
-
-- Improving Flutter application architecture and code organization.
-- Building responsive and reusable mobile UI components.
-- Exploring advanced Dart and Flutter concepts.
-- Improving application performance and maintainability.
-- Developing projects that demonstrate practical mobile development skills.
 
 ---
 
