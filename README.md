@@ -10,18 +10,6 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/hamza-hafeez-dev">
-    <img src="https://komarev.com/ghpvc/?username=hamza-hafeez-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/hamza-hafeez-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/hamza-hafeez-dev?label=Followers&style=flat&color=blue" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/hamza-hafeez-dev?tab=repositories">
-    <img src="https://img.shields.io/github/stars/hamza-hafeez-dev?label=Total%20Stars&style=flat&color=yellow" alt="GitHub Stars"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer;Cross-Platform+Mobile+Development;Android+%26+iOS+Applications;Building+Clean+and+Reliable+Apps" alt="Typing SVG"/>
 </p>
 
