@@ -1,4 +1,3 @@
-
 <!-- ===================================================== -->
 <!--                    PROFILE HEADER                       -->
 <!-- ===================================================== -->
@@ -19,20 +18,16 @@
 <!--                       ABOUT ME                          -->
 <!-- ===================================================== -->
 
-## 👨‍💻 About Me
 
-I'm a Flutter Developer working at **CAS Center for Advance Solutions**, building cross-platform mobile applications with Flutter and Dart.
+## About me
 
-My journey started with native Android development using Java, which gave me a solid understanding of how mobile applications work under the hood.
+I'm a Flutter developer at **CAS Center for Advanced Solutions** in Bahawalpur, Pakistan, where I build cross-platform mobile apps with Flutter and Dart.
 
-Today, I focus on building clean, responsive, and maintainable applications while continuously improving my development skills.
+I started with native Android in Java, so I care about how apps actually work under the hood, not just how they look. Now I focus on clean, fast apps for Android and iOS.
 
-- 📱 Developing cross-platform applications for Android & iOS
-- 💙 Working with Flutter, Dart, Firebase & REST APIs
-- 🏗️ Interested in Clean Architecture, MVVM & scalable app structure
-- ⚡ Focused on application performance, reusable widgets & clean code
-- 🔧 Experienced with native Android development using Java
-- 🤝 Open to professional opportunities and meaningful collaborations
+- **Building with:** Flutter, Dart, Firebase, REST APIs
+- **Focused on:** clean code, reusable widgets, smooth UI
+- **Open to:** freelance Flutter projects and new opportunities
 
 ---
 
