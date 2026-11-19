@@ -102,13 +102,6 @@ I started with native Android in Java, so I care about how apps actually work un
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=hamza-hafeez-dev&theme=tokyonight&hide_border=true"
-    width="70%"
-    alt="GitHub Contribution Streak"
-  />
-</p>
 
 
 ---
