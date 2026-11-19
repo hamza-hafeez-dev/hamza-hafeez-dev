@@ -87,22 +87,20 @@ I started with native Android in Java, so I care about how apps actually work un
 <!--                    GITHUB STATISTICS                    -->
 <!-- ===================================================== -->
 
-## 📊 GitHub Statistics
+## GitHub snapshot
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=hamza-hafeez-dev&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&hide_rank=true"
+    src="https://github-stats-extended.vercel.app/api?username=hamza-hafeez-dev&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&hide_rank=true&hide=prs,issues,contribs"
     width="49%"
     alt="GitHub Statistics"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=hamza-hafeez-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=hamza-hafeez-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=4"
     width="49%"
     alt="Most Used Languages"
   />
 </p>
-
-
 
 ---
 
