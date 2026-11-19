@@ -35,53 +35,21 @@ I started with native Android in Java, so I care about how apps actually work un
 <!--                    FLUTTER EXPERTISE                    -->
 <!-- ===================================================== -->
 
-## 💙 Flutter Development Skills
-
-### UI Development
+## Tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Custom_Widgets-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive_UI-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Custom_Clipper-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CustomPainter-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Animations-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Material_Design-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-### State Management
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Provider-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BLoC-5C2D91?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Riverpod-00A3E0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge"/>
-</p>
-
-### App Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_API_Integration-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/JSON_Parsing-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Navigation-02569B?style=for-the-badge"/>
-</p>
-
-### Architecture & Code Quality
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean_Architecture-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-0175C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Async_Programming-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Error_Handling-CC3333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Debugging-444444?style=for-the-badge"/>
-</p>
-
+- **UI:** custom animations, CustomPainter, CustomClipper, Slivers
+- **State management:** Provider *(write the one you really used in your projects)*
+- **Data:** REST APIs, SQLite, JSON parsing
 
 ---
-
-
 
 <!-- ===================================================== -->
 <!--                    GITHUB STATISTICS                    -->
