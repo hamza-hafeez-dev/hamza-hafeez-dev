@@ -35,19 +35,21 @@ I started with native Android in Java, so I care about how apps actually work un
 <!--                    FLUTTER EXPERTISE                    -->
 <!-- ===================================================== -->
 
-## Tech stack
+## Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 </p>
 
-- **UI:** custom animations, CustomPainter, CustomClipper, Slivers
-- **State management:** Provider *(write the one you really used in your projects)*
-- **Data:** REST APIs, SQLite, JSON parsing
+| Area | What I use |
+|---|---|
+| **UI** | `Custom Widgets` `Responsive UI` `Material Design` `Animations` `CustomPainter` `CustomClipper` |
+| **State management** | `Provider` `BLoC` `Riverpod` `GetX` |
+| **Data and APIs** | `REST API Integration` `JSON Parsing` `Firebase` `SQLite` `Navigation` |
+| **Code quality** | `Clean Architecture` `MVVM` `OOP` `Async Programming` `Error Handling` `Debugging` |
 
 ---
 
