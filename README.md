@@ -76,24 +76,6 @@ I started with native Android in Java, so I care about how apps actually work un
 
 
 <!-- ===================================================== -->
-<!--                  CONTRIBUTION ACTIVITY                  -->
-<!-- ===================================================== -->
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/38BDF8/hamza-hafeez-dev"
-    alt="GitHub Contribution Calendar"
-    width="100%"
-  />
-</p>
-
-
----
-
-
-<!-- ===================================================== -->
 <!--                  FLUTTER UI ENGINEERING                 -->
 <!-- ===================================================== -->
 
@@ -112,67 +94,15 @@ I started with native Android in Java, so I care about how apps actually work un
 
 ---
 
+## Hiring? Start here
 
-<!-- ===================================================== -->
-<!--                    FEATURED PROJECTS                    -->
-<!-- ===================================================== -->
+Got only a minute? The fastest way to see what I can do is my pinned repositories, just below.
 
-## 🚀 Featured Projects
+- **My latest work:** the pinned repositories right under this section.
+- **Where I started:** native Android apps in Java, before I moved to Flutter.
+- **Everything else:** [browse all repositories](https://github.com/hamza-hafeez-dev?tab=repositories) for code and projects.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🍔 Flutter Foodie App</h3>
-
-<p align="center">
-  <a href="https://github.com/hamza-hafeez-dev/Flutter-Foodie-App">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Flutter Foodie App"/>
-  </a>
-</p>
-
-<p align="center">
-A Flutter food application project focused on mobile UI development and creating engaging user experiences.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mobile_UI-2E8B57?style=flat-square"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">📚 Advanced Flutter Roadmap</h3>
-
-<p align="center">
-  <a href="https://github.com/hamza-hafeez-dev/Advance-Flutter-Roadmap">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Advanced Flutter Roadmap"/>
-  </a>
-</p>
-
-<p align="center">
-A structured Flutter learning roadmap covering Dart fundamentals, Flutter concepts, practical examples, and development topics from beginner to advanced.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Learning_Resource-2E8B57?style=flat-square"/>
-</p>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/hamza-hafeez-dev?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
-  </a>
-</p>
-
+I'm still growing every day. If you spot something I can do better, I'd honestly like to hear it.
 
 ---
 
