@@ -74,26 +74,6 @@ I started with native Android in Java, so I care about how apps actually work un
 
 ---
 
-
-<!-- ===================================================== -->
-<!--                  FLUTTER UI ENGINEERING                 -->
-<!-- ===================================================== -->
-
-## 🎨 Flutter UI Engineering
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Implicit_Animations-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Explicit_Animations-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AnimationController-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hero_Animations-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CustomPainter-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CustomClipper-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CustomScrollView-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Slivers-02569B?style=for-the-badge"/>
-</p>
-
----
-
 ## Hiring? Start here
 
 Got only a minute? The fastest way to see what I can do is my pinned repositories, just below.
