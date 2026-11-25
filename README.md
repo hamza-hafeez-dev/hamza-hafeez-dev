@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Muhammad%20Hamza%20Hafeez&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Associate%20Flutter%20Developer&descSize=20&descAlignY=58" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Muhammad%20Hamza%20Hafeez&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer&descSize=30&descAlignY=58" alt="Header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer;Cross-Platform+Mobile+Development;Android+%26+iOS+Applications;Clean+code.+Smooth+UI.+Real+apps." alt="Typing SVG"/>
 
