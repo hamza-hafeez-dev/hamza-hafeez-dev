@@ -8,8 +8,8 @@
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </div>
 
@@ -24,8 +24,11 @@ class Hamza extends Developer {
   final location = 'Bahawalpur, Pakistan 🇵🇰';
   final origin   = 'Native Android (Java) → Flutter';
 
-  final learning = ['Firebase', 'State management', 'Node.js'];
-  final openTo   = ['Freelance Flutter projects', 'New opportunities'];
+  final stack    = ['Flutter', 'Dart', 'REST APIs', 'Git'];
+  final builds   = ['Cross-platform apps', 'Animated UIs', 'API-driven apps'];
+  final shipped  = ['Realtime Weather App', 'Noble Finance Landing Page'];
+
+  final status   = 'Open to freelance Flutter projects 🟢';
 
   @override
   String build() => 'Clean code. Smooth UI. Real apps.';
